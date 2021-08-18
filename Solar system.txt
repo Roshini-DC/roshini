@@ -7,5 +7,13 @@
 <hr>
 <a herf="https://www.google.com/"> Click here
 </a>
+<br>
+<br>
+<br>
+<a href= "https://www.google.com/"> <button> click here </buton> </a>
+<br>
+<br>
+<br>
+<a href="sun.html"> <button> Sun </button> </html>
 </body>
 </html>
