@@ -31,6 +31,35 @@
         <td>Andra Pradesh</td>
         <td>Amaravati</td<td>
 </tr>
+<tr>
+        <td>5</td>
+        <td>Bihar</td>
+        <td>Patna</td<td>
+</tr>
+<tr>
+        <td>6</td>
+        <td>Assam</td>
+        <td>Dispur</td<td>
+</tr>
+<tr>
+        <td>7</td>
+        <td>Arunachal Pradesh</td>
+        <td>Itanagar</td<td>
+</tr>
+<tr>
+        <td>8</td>
+        <td>Maharashtra</td>
+        <td>Mumbai</td<td>
+</tr>
+<tr>
+        <td>9</td>
+        <td>Chhatisgarh</td>
+        <td>Raipur</td<td>
+</tr>
+<tr>
+       <td>10</td> 
+       <td>Rajasthan</td>
+       <td>Jaipur</td<td>         
 </table>
 </body>
 </html>
