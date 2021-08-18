@@ -1,0 +1,37 @@
+<html>
+<head>
+<title> States and capitalsof India </title>
+</head>
+<body>
+<h1><center> States and Capital of India</center></h1> 
+<hr>
+<table border=2 bgcolour="light blue"bordercolour="white">
+<tr>
+        <th>S.No.</th>
+        <th>State</th>
+        <th>Capital</th>
+</tr>
+<tr>
+        <td>1</td>
+        <td>Tamilnadu</td>
+        <td>Chennai</td</td>
+</tr>
+<tr>
+        <td>2</td>
+        <td>Kerla</td>
+        <td>Thiruvanadhapuram</td</td>
+</tr>
+<tr>
+        <td>3</td>
+        <td>Karnataka</td>
+        <td>Bengaluru</td</td> 
+</tr>
+<tr>
+        <td>4</td>
+        <td>Andra Pradesh</td>
+        <td>Amaravati</td<td>
+</tr>
+</table>
+</body>
+</html>
+              
